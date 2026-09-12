@@ -65,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/stellar-techie/myleetcode/tree/master/0050-powx-n) |
+## Database
+|  |
+| ------- |
+| [0577-employee-bonus](https://github.com/stellar-techie/myleetcode/tree/master/0577-employee-bonus) |
 <!---LeetCode Topics End-->
