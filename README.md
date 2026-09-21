@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/stellar-techie/myleetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/stellar-techie/myleetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/stellar-techie/myleetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/stellar-techie/myleetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -77,8 +78,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/stellar-techie/myleetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/stellar-techie/myleetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/stellar-techie/myleetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Hash Table
+|  |
+| ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/stellar-techie/myleetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
