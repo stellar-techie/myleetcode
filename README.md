@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/stellar-techie/myleetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/stellar-techie/myleetcode/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/stellar-techie/myleetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/stellar-techie/myleetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/stellar-techie/myleetcode/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/stellar-techie/myleetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/stellar-techie/myleetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -82,9 +83,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/stellar-techie/myleetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/stellar-techie/myleetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Hash Table
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/stellar-techie/myleetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/stellar-techie/myleetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
