@@ -20,6 +20,7 @@ class Solution {
         List<Integer> ans = new ArrayList<>();
         Stack<TreeNode> stack = new Stack<>(); 
 
+        TreeNode current;
         if(root==null){
             return ans;
         }
@@ -28,7 +29,7 @@ class Solution {
 
         while(!stack.isEmpty()){
 
-            TreeNode current=stack.pop();
+            current=stack.pop();
 
             ans.add(current.val);
 
